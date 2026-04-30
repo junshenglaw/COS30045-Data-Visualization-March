@@ -14,26 +14,24 @@ You must use the **Exercise 3 folder in your existing forked repository** and re
 
 ### Audience
 
-The target audience for this visualisation includes:
+The target audience for this visualisation include: 
 
-- Consumers interested in **energy-efficient televisions**
-- Policy makers and regulators interested in **energy consumption trends**
-- Researchers studying **energy efficiency in consumer electronics**
+Household consumers who are interested in purchasing televisions and want to reduce electricity costs.
 
-These audiences are interested in understanding how **television energy consumption varies across models, sizes, and technologies**, and how these factors influence overall energy usage.
+These users are typically non-technical and prefer simple visualisations that help them compare energy usage across different TV types, sizes, and features.
 
 ### Story Overview
 
-This visualisation explores patterns in **TV energy consumption** across different television models and specifications.
+This data story explores TV energy consumption across different brands, screen technologies, sizes, and efficiency ratings.
 
 The goal is to help viewers understand:
 
-- How energy consumption varies between television models
-- The relationship between **screen size and power consumption**
-- How **energy efficiency ratings** impact energy usage
-- Trends that may help consumers choose more **energy-efficient televisions**
+- Which brands offer the most TV models
+- Which screen technology consumes the least power
+- The relationship between screen size and energy consumption
+- The relationship between energy rating and screen size
 
-The website presents these insights through visualisations and explanatory text that guide the viewer through the data.
+These insights help consumers make more energy-efficient and cost-effective purchasing decisions.
 
 ---
 
